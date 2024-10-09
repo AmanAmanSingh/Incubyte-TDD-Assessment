@@ -59,7 +59,7 @@ For run Test cases
 For support, email amans7097@gmail.com.
 
 
-## Quest 12 : Containerization
+## EXAMPLE : 
 
 ```bash
 const { add } = require('./src/calculator');
